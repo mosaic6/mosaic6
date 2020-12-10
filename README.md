@@ -1,6 +1,6 @@
 ![Cartoon of me](undraw_Designer_by46.png)
 
-👆That's me. I'm Josh. I write code, make music, and open way too many browser tabs.
+## 👆That's me. I'm Josh. I write code, make music, and open way too many browser tabs.
 <!--
 **mosaic6/mosaic6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
