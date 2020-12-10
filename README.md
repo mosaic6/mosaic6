@@ -1,4 +1,4 @@
-![Cartoon of me](Croods - Peaceful Place-2.png)
+![Cartoon of me](me.png)
 
 ## 👆That's me. I'm Josh. I write code, make music, and open way too many browser tabs.
 <!--
