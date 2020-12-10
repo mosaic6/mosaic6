@@ -1,4 +1,4 @@
-![Cartoon of me](undraw_Designer_by46.png)
+![Cartoon of me](Croods - Peaceful Place-2.png)
 
 ## 👆That's me. I'm Josh. I write code, make music, and open way too many browser tabs.
 <!--
