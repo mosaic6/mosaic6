@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Cartoon of me]
 <!--
 **mosaic6/mosaic6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
