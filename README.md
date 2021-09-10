@@ -1,6 +1,4 @@
-![Cartoon of me](meMedium.png)
-
-## 👆That's me. I'm Josh. I write code, make music, and open way too many browser tabs.
+## 👋 I'm Josh. I write code.
 <!--
 **mosaic6/mosaic6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
